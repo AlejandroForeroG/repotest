@@ -1,1 +1,2 @@
-este es un texto de prueba para git  2 prueba test
+este es un texto de prueba para git  2 prueba test al moment de escribir
+debemos ser consientes de los cambios que se hacen en este texto 
